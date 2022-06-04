@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "thunder.mp3",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/thunder_1654345761_1.mp3",
+    "dmca": null,
+    "dateCreated": "2022-06-04 13:29:21",
+    "dateLastEdit": null,
+    "status": "approve",
+    "uuid": "3c303044-a29c-473e-b53d-3e646d547a09-1"
+  },
+  {
+    "id": 2,
+    "name": "birds_scotland.mp3",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/birds_scotland_1654345935_2.mp3",
+    "dmca": null,
+    "dateCreated": "2022-06-04 13:32:15",
+    "dateLastEdit": null,
+    "status": "approve",
+    "uuid": "51f816b9-01ea-4b92-b611-113fcd16efcf-2"
+  }
+]

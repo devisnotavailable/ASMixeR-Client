@@ -1,0 +1,1 @@
+enum PreferenceType { topPreference, mediumPreference }

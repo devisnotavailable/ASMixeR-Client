@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Nature's sounds",
+    "dateCreated": "2022-06-04 13:16:24",
+    "dateLastEdit": null,
+    "nameRu": "\u0417\u0432\u0443\u043a\u0438 \u043f\u0440\u0438\u0440\u043e\u0434\u044b",
+    "iconPath": null,
+    "description": "Relaxing nature's sounds",
+    "descriptionRu": "\u0420\u0430\u0441\u0441\u043b\u0430\u0431\u043b\u044f\u044e\u0449\u0438\u0435 \u0437\u0432\u0443\u043a\u0438 \u043f\u0440\u0438\u0440\u043e\u0434\u044b",
+    "isVideo": true,
+    "isAudio": true,
+    "status": "approve"
+  },
+  {
+    "id": 2,
+    "name": "Tapping",
+    "dateCreated": "2022-06-04 13:23:17",
+    "dateLastEdit": null,
+    "nameRu": "\u0422\u0430\u043f\u043f\u0438\u043d\u0433",
+    "iconPath": null,
+    "description": "This trigger can include tapping surfaces with long fingernails or with the tips of the fingers for a softer sound.",
+    "descriptionRu": "\u0417\u0432\u0443\u043a\u0438 \u043f\u043e\u0441\u0442\u0443\u043a\u0438\u0432\u0430\u043d\u0438\u044f \u043f\u043e \u0440\u0430\u0437\u043d\u043e\u043e\u0431\u0440\u0437\u043d\u044b\u043c \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u044f\u043c \u0438 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430\u043c.",
+    "isVideo": true,
+    "isAudio": true,
+    "status": "approve"
+  },
+  {
+    "id": 3,
+    "name": "Roleplay",
+    "dateCreated": "2022-06-04 13:24:10",
+    "dateLastEdit": null,
+    "nameRu": "\u0420\u043e\u043b\u0435\u043f\u043b\u044d\u0439",
+    "iconPath": null,
+    "description": "Many ASMR videos feature the creator roleplaying certain scenarios, such as a doctor\u2019s visit, a haircut, or even a zombie apocalypse. This can make for a more personal and engaging experience for viewers that creates an intensified tingling sensation.",
+    "descriptionRu": "",
+    "isVideo": true,
+    "isAudio": false,
+    "status": "approve"
+  },
+  {
+    "id": 4,
+    "name": "Whispering",
+    "dateCreated": "2022-06-04 13:24:45",
+    "dateLastEdit": null,
+    "nameRu": "",
+    "iconPath": null,
+    "description": "",
+    "descriptionRu": "",
+    "isVideo": true,
+    "isAudio": false,
+    "status": "approve"
+  },
+  {
+    "id": 5,
+    "name": "Eating",
+    "dateCreated": "2022-06-04 13:25:05",
+    "dateLastEdit": null,
+    "nameRu": "",
+    "iconPath": null,
+    "description": "",
+    "descriptionRu": "",
+    "isVideo": true,
+    "isAudio": false,
+    "status": "approve"
+  }
+]
