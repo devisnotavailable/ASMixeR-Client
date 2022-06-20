@@ -102,7 +102,8 @@ class InitBloc extends Bloc<InitEvent, InitBlocState> {
       await appDatabase.audioSampleDao.insertEntity(AudioSample(
           id: sample['id'],
           name: sample['name'],
-          path: '${directory.path}/samples/${sample['name']}'));
+          path: '${directory.path}/samples/${sample['name']}',
+          lastEditDate: sample['dateLastEdit']));
     }
   }
 
