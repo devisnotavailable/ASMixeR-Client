@@ -17,7 +17,8 @@ class SettingsScreen extends StatefulWidget {
 }
 
 class _SettingsScreenState extends State<SettingsScreen> {
-  final String aboutAppLink = "https://github.com/devisnotavailable/ASMixeR";
+  final String aboutAppLink =
+      "https://github.com/devisnotavailable/ASMixeR-Client";
 
   @override
   Widget build(BuildContext context) {
