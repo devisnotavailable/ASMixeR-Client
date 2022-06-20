@@ -8,5 +8,30 @@
     "id": 2,
     "sampleId": 2,
     "categoryId": 1
+  },
+  {
+    "id": 4,
+    "sampleId": 4,
+    "categoryId": 1
+  },
+  {
+    "id": 5,
+    "sampleId": 5,
+    "categoryId": 1
+  },
+  {
+    "id": 7,
+    "sampleId": 7,
+    "categoryId": 1
+  },
+  {
+    "id": 8,
+    "sampleId": 8,
+    "categoryId": 1
+  },
+  {
+    "id": 9,
+    "sampleId": 6,
+    "categoryId": 1
   }
 ]

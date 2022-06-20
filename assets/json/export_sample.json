@@ -2,21 +2,78 @@
   {
     "id": 1,
     "name": "thunder.mp3",
-    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/thunder_1654345761_1.mp3",
-    "dmca": null,
-    "dateCreated": "2022-06-04 13:29:21",
-    "dateLastEdit": null,
     "status": "approve",
-    "uuid": "3c303044-a29c-473e-b53d-3e646d547a09-1"
+    "dateCreated": 1654338561,
+    "dateLastEdit": 0,
+    "uuid": "3c303044-a29c-473e-b53d-3e646d547a09-1",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/thunder_1654345761_1.mp3",
+    "link": "\/sample\/get-file?uuid=3c303044-a29c-473e-b53d-3e646d547a09-1",
+    "dmca": false
   },
   {
     "id": 2,
     "name": "birds_scotland.mp3",
-    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/birds_scotland_1654345935_2.mp3",
-    "dmca": null,
-    "dateCreated": "2022-06-04 13:32:15",
-    "dateLastEdit": null,
     "status": "approve",
-    "uuid": "51f816b9-01ea-4b92-b611-113fcd16efcf-2"
+    "dateCreated": 1654338735,
+    "dateLastEdit": 0,
+    "uuid": "51f816b9-01ea-4b92-b611-113fcd16efcf-2",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/birds_scotland_1654345935_2.mp3",
+    "link": "\/sample\/get-file?uuid=51f816b9-01ea-4b92-b611-113fcd16efcf-2",
+    "dmca": false
+  },
+  {
+    "id": 4,
+    "name": "beach.mp3",
+    "status": "approve",
+    "dateCreated": 1655727278,
+    "dateLastEdit": 0,
+    "uuid": "64b94232-48b4-4be4-b293-d99f25b6e8ce-4",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/beach_1655734478_4.mp3",
+    "link": "\/sample\/get-file?uuid=64b94232-48b4-4be4-b293-d99f25b6e8ce-4",
+    "dmca": false
+  },
+  {
+    "id": 5,
+    "name": "ocean.mp3",
+    "status": "approve",
+    "dateCreated": 1655727407,
+    "dateLastEdit": 0,
+    "uuid": "c633cc95-9e0e-4a68-a50a-98cb2656d0e7-5",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/ocean_1655734607_5.mp3",
+    "link": "\/sample\/get-file?uuid=c633cc95-9e0e-4a68-a50a-98cb2656d0e7-5",
+    "dmca": false
+  },
+  {
+    "id": 6,
+    "name": "water.mp3",
+    "status": "approve",
+    "dateCreated": 1655727423,
+    "dateLastEdit": 1655735681,
+    "uuid": "24cbda36-4d0a-4d2e-9445-c1e5ee667be5-6",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/water_1655734623_6.mp3",
+    "link": "\/sample\/get-file?uuid=24cbda36-4d0a-4d2e-9445-c1e5ee667be5-6",
+    "dmca": false
+  },
+  {
+    "id": 7,
+    "name": "water2.mp3",
+    "status": "approve",
+    "dateCreated": 1655727436,
+    "dateLastEdit": 0,
+    "uuid": "6f4e2d0d-c3a8-4f7f-8190-acf559de950f-7",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/water2_1655734636_7.mp3",
+    "link": "\/sample\/get-file?uuid=6f4e2d0d-c3a8-4f7f-8190-acf559de950f-7",
+    "dmca": false
+  },
+  {
+    "id": 8,
+    "name": "rain.mp3",
+    "status": "approve",
+    "dateCreated": 1655727457,
+    "dateLastEdit": 0,
+    "uuid": "d7b30537-d02d-4907-9573-de604879c31e-8",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/rain_1655734657_8.mp3",
+    "link": "\/sample\/get-file?uuid=d7b30537-d02d-4907-9573-de604879c31e-8",
+    "dmca": false
   }
 ]

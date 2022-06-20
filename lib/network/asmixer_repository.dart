@@ -5,7 +5,7 @@ import 'network_handler.dart';
 
 class MixerRepository {
   final NetworkHandler _networkHandler;
-  final String baseUrl = "https://asmixer.ru";
+  final String baseUrl = "https://api.asmixer.ru";
 
   MixerRepository(this._networkHandler);
 
