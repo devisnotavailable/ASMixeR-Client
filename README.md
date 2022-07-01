@@ -5,12 +5,7 @@
 It mixes ASMR sounds based on the categories you select + helps you find new ASMR videos and creators.
 
 ## Screenshots
-[<img src="https://user-images.githubusercontent.com/106318111/176960604-7b0bfc9b-b401-4182-bec8-b68467870d41.png" width=160>](https://user-images.githubusercontent.com/106318111/176960604-7b0bfc9b-b401-4182-bec8-b68467870d41.png)
-[<img src="https://user-images.githubusercontent.com/106318111/176960818-ca604bad-3ca2-432d-9c27-b3dcdef0ef79.png" width=160>](https://user-images.githubusercontent.com/106318111/176960818-ca604bad-3ca2-432d-9c27-b3dcdef0ef79.png)
-[<img src="https://user-images.githubusercontent.com/106318111/176960853-27f01ae9-0589-49b7-8e2d-ff49377e60cb.png" width=160>](https://user-images.githubusercontent.com/106318111/176960853-27f01ae9-0589-49b7-8e2d-ff49377e60cb.png)
-[<img src="https://user-images.githubusercontent.com/106318111/176960862-ed4ca333-a14d-4d41-94d8-43ea2d081350.png" width=160>](https://user-images.githubusercontent.com/106318111/176960862-ed4ca333-a14d-4d41-94d8-43ea2d081350.png)
-[<img src="https://user-images.githubusercontent.com/106318111/176960880-6c581d8c-41c0-4574-865e-ed92df6d1802.png" width=160>](https://user-images.githubusercontent.com/106318111/176960880-6c581d8c-41c0-4574-865e-ed92df6d1802.png)
-[<img src="https://user-images.githubusercontent.com/106318111/176960889-2105bb0a-5542-41c0-8708-93ff08ca8acf.png" width=160>](https://user-images.githubusercontent.com/106318111/176960889-2105bb0a-5542-41c0-8708-93ff08ca8acf.png)
+<img src="https://user-images.githubusercontent.com/106318111/176960604-7b0bfc9b-b401-4182-bec8-b68467870d41.png" width=160> <img src="https://user-images.githubusercontent.com/106318111/176960818-ca604bad-3ca2-432d-9c27-b3dcdef0ef79.png" width=160> <img src="https://user-images.githubusercontent.com/106318111/176960853-27f01ae9-0589-49b7-8e2d-ff49377e60cb.png" width=160> <img src="https://user-images.githubusercontent.com/106318111/176960862-ed4ca333-a14d-4d41-94d8-43ea2d081350.png" width=160> <img src="https://user-images.githubusercontent.com/106318111/176960880-6c581d8c-41c0-4574-865e-ed92df6d1802.png" width=160> <img src="https://user-images.githubusercontent.com/106318111/176960889-2105bb0a-5542-41c0-8708-93ff08ca8acf.png" width=160>
 
 
 ## Features
