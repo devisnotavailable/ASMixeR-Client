@@ -33,5 +33,90 @@
     "id": 9,
     "sampleId": 6,
     "categoryId": 1
+  },
+  {
+    "id": 10,
+    "sampleId": 9,
+    "categoryId": 1
+  },
+  {
+    "id": 11,
+    "sampleId": 10,
+    "categoryId": 1
+  },
+  {
+    "id": 12,
+    "sampleId": 11,
+    "categoryId": 1
+  },
+  {
+    "id": 13,
+    "sampleId": 12,
+    "categoryId": 1
+  },
+  {
+    "id": 14,
+    "sampleId": 13,
+    "categoryId": 1
+  },
+  {
+    "id": 15,
+    "sampleId": 14,
+    "categoryId": 1
+  },
+  {
+    "id": 16,
+    "sampleId": 15,
+    "categoryId": 1
+  },
+  {
+    "id": 18,
+    "sampleId": 17,
+    "categoryId": 1
+  },
+  {
+    "id": 19,
+    "sampleId": 18,
+    "categoryId": 1
+  },
+  {
+    "id": 20,
+    "sampleId": 19,
+    "categoryId": 1
+  },
+  {
+    "id": 21,
+    "sampleId": 20,
+    "categoryId": 1
+  },
+  {
+    "id": 22,
+    "sampleId": 21,
+    "categoryId": 1
+  },
+  {
+    "id": 23,
+    "sampleId": 22,
+    "categoryId": 1
+  },
+  {
+    "id": 24,
+    "sampleId": 23,
+    "categoryId": 1
+  },
+  {
+    "id": 25,
+    "sampleId": 24,
+    "categoryId": 1
+  },
+  {
+    "id": 26,
+    "sampleId": 25,
+    "categoryId": 1
+  },
+  {
+    "id": 27,
+    "sampleId": 26,
+    "categoryId": 1
   }
 ]

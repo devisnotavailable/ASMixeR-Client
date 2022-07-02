@@ -75,5 +75,192 @@
     "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/rain_1655734657_8.mp3",
     "link": "\/sample\/get-file?uuid=d7b30537-d02d-4907-9573-de604879c31e-8",
     "dmca": false
+  },
+  {
+    "id": 9,
+    "name": "water_drops.mp3",
+    "status": "approve",
+    "dateCreated": 1656778492,
+    "dateLastEdit": 0,
+    "uuid": "86ef08ba-7d11-438d-937f-23018735b70d-9",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/water_drops_1656785692_9.mp3",
+    "link": "\/sample\/get-file?uuid=86ef08ba-7d11-438d-937f-23018735b70d-9",
+    "dmca": false
+  },
+  {
+    "id": 10,
+    "name": "wind.mp3",
+    "status": "approve",
+    "dateCreated": 1656778501,
+    "dateLastEdit": 0,
+    "uuid": "c849278e-da2e-4d0a-8290-d3cfab8f9533-10",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/wind_1656785701_10.mp3",
+    "link": "\/sample\/get-file?uuid=c849278e-da2e-4d0a-8290-d3cfab8f9533-10",
+    "dmca": false
+  },
+  {
+    "id": 11,
+    "name": "Big-rain-drops.mp3",
+    "status": "approve",
+    "dateCreated": 1656778508,
+    "dateLastEdit": 0,
+    "uuid": "69f5bfa3-5e31-4a1c-bfc2-07c0f0648aad-11",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/Big-rain-drops_1656785708_11.mp3",
+    "link": "\/sample\/get-file?uuid=69f5bfa3-5e31-4a1c-bfc2-07c0f0648aad-11",
+    "dmca": false
+  },
+  {
+    "id": 12,
+    "name": "bird_singing.mp3",
+    "status": "approve",
+    "dateCreated": 1656778523,
+    "dateLastEdit": 0,
+    "uuid": "9a7115a5-5f98-40ce-ac0e-d875a95902f7-12",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/bird_singing_1656785723_12.mp3",
+    "link": "\/sample\/get-file?uuid=9a7115a5-5f98-40ce-ac0e-d875a95902f7-12",
+    "dmca": false
+  },
+  {
+    "id": 13,
+    "name": "fire-1.mp3",
+    "status": "approve",
+    "dateCreated": 1656778580,
+    "dateLastEdit": 0,
+    "uuid": "86b084a5-846f-4c3a-8bd0-47bb27d23074-13",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/fire-1_1656785780_13.mp3",
+    "link": "\/sample\/get-file?uuid=86b084a5-846f-4c3a-8bd0-47bb27d23074-13",
+    "dmca": false
+  },
+  {
+    "id": 14,
+    "name": "Wind-1.mp3",
+    "status": "approve",
+    "dateCreated": 1656778587,
+    "dateLastEdit": 0,
+    "uuid": "464538e4-1287-4169-9c3d-f16ac2628753-14",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/Wind-1_1656785787_14.mp3",
+    "link": "\/sample\/get-file?uuid=464538e4-1287-4169-9c3d-f16ac2628753-14",
+    "dmca": false
+  },
+  {
+    "id": 15,
+    "name": "fire-2.mp3",
+    "status": "approve",
+    "dateCreated": 1656778594,
+    "dateLastEdit": 0,
+    "uuid": "e9d28dac-600e-4790-a4e3-7aeceeb208c5-15",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/fire-2_1656785794_15.mp3",
+    "link": "\/sample\/get-file?uuid=e9d28dac-600e-4790-a4e3-7aeceeb208c5-15",
+    "dmca": false
+  },
+  {
+    "id": 17,
+    "name": "forest-2.mp3",
+    "status": "approve",
+    "dateCreated": 1656778622,
+    "dateLastEdit": 0,
+    "uuid": "d09bf6fa-6ed6-4f7d-961e-2e5108c64abe-17",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/forest-2_1656785822_17.mp3",
+    "link": "\/sample\/get-file?uuid=d09bf6fa-6ed6-4f7d-961e-2e5108c64abe-17",
+    "dmca": false
+  },
+  {
+    "id": 18,
+    "name": "forest-5.mp3",
+    "status": "approve",
+    "dateCreated": 1656778629,
+    "dateLastEdit": 0,
+    "uuid": "c9a40e23-d467-4a5e-b3e3-3f50c673c7e4-18",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/forest-5_1656785829_18.mp3",
+    "link": "\/sample\/get-file?uuid=c9a40e23-d467-4a5e-b3e3-3f50c673c7e4-18",
+    "dmca": false
+  },
+  {
+    "id": 19,
+    "name": "strong_wind.mp3",
+    "status": "approve",
+    "dateCreated": 1656778635,
+    "dateLastEdit": 0,
+    "uuid": "1406759e-de26-4c41-b62b-373f7540ae41-19",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/strong_wind_1656785835_19.mp3",
+    "link": "\/sample\/get-file?uuid=1406759e-de26-4c41-b62b-373f7540ae41-19",
+    "dmca": false
+  },
+  {
+    "id": 20,
+    "name": "birds_forest.mp3",
+    "status": "approve",
+    "dateCreated": 1656778644,
+    "dateLastEdit": 0,
+    "uuid": "ec5b246d-fc96-4c34-a54d-4025a9602988-20",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/birds_forest_1656785844_20.mp3",
+    "link": "\/sample\/get-file?uuid=ec5b246d-fc96-4c34-a54d-4025a9602988-20",
+    "dmca": false
+  },
+  {
+    "id": 21,
+    "name": "light_wind.mp3",
+    "status": "approve",
+    "dateCreated": 1656778650,
+    "dateLastEdit": 0,
+    "uuid": "6e4dce0f-19b4-4491-b3de-18c1ec559171-21",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/light_wind_1656785850_21.mp3",
+    "link": "\/sample\/get-file?uuid=6e4dce0f-19b4-4491-b3de-18c1ec559171-21",
+    "dmca": false
+  },
+  {
+    "id": 22,
+    "name": "crickets.mp3",
+    "status": "approve",
+    "dateCreated": 1656778661,
+    "dateLastEdit": 0,
+    "uuid": "e49cf792-5454-4c3b-a83b-bf73926aa768-22",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/crickets_1656785861_22.mp3",
+    "link": "\/sample\/get-file?uuid=e49cf792-5454-4c3b-a83b-bf73926aa768-22",
+    "dmca": false
+  },
+  {
+    "id": 23,
+    "name": "morning_bird.mp3",
+    "status": "approve",
+    "dateCreated": 1656778673,
+    "dateLastEdit": 0,
+    "uuid": "43760776-65bf-439d-91b9-3e8bea874e0d-23",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/morning_bird_1656785873_23.mp3",
+    "link": "\/sample\/get-file?uuid=43760776-65bf-439d-91b9-3e8bea874e0d-23",
+    "dmca": false
+  },
+  {
+    "id": 24,
+    "name": "underground_water.mp3",
+    "status": "approve",
+    "dateCreated": 1656778682,
+    "dateLastEdit": 0,
+    "uuid": "a4db1942-4a5d-44f2-8bbe-adb21f394740-24",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/underground_water_1656785882_24.mp3",
+    "link": "\/sample\/get-file?uuid=a4db1942-4a5d-44f2-8bbe-adb21f394740-24",
+    "dmca": false
+  },
+  {
+    "id": 25,
+    "name": "swamp_night.mp3",
+    "status": "approve",
+    "dateCreated": 1656778688,
+    "dateLastEdit": 0,
+    "uuid": "5616ba80-9ec9-423e-af4b-4b89e45b9eb1-25",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/swamp_night_1656785888_25.mp3",
+    "link": "\/sample\/get-file?uuid=5616ba80-9ec9-423e-af4b-4b89e45b9eb1-25",
+    "dmca": false
+  },
+  {
+    "id": 26,
+    "name": "thunder_rainfall.mp3",
+    "status": "approve",
+    "dateCreated": 1656778858,
+    "dateLastEdit": 0,
+    "uuid": "848c43fc-35d3-4c58-9b2f-5bcb064fd65b-26",
+    "path": "\/home\/asmixer\/asmixer-server\/resources\/samples\/1000\/thunder_rainfall_1656786058_26.mp3",
+    "link": "\/sample\/get-file?uuid=848c43fc-35d3-4c58-9b2f-5bcb064fd65b-26",
+    "dmca": false
   }
 ]
