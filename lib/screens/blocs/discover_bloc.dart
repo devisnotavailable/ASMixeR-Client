@@ -34,13 +34,22 @@ class DiscoverBloc extends Bloc<DiscoverEvent, DiscoverState> {
     });
   }
 
+  String _getSearchQuery(DiscoverOnMoreVideos event) {
+    //TODO: replace with searchQuery field or smth like that
+    var searchQuery = state.categoryList[state.selectedChipIndex]
+        .getNameForLocale(event.isRussian);
+    if (!searchQuery.contains("ASMR")) {
+      searchQuery += " ASMR";
+    }
+    return searchQuery;
+  }
+
   _onMoreVideosEvent(DiscoverOnMoreVideos event, Emitter emit) async {
     if (state.categoryList.isNotEmpty) {
       try {
         var response = await youtubeRepository.searchVideos(
             pageToken: event.nextToken,
-            searchQuery: state.categoryList[state.selectedChipIndex]
-                .getNameForLocale(event.isRussian),
+            searchQuery: _getSearchQuery(event),
             locale: state.useSearchLocale ? event.locale : '');
         emit(state.copyWith(
             videoResponse: ApiResponse.completed(response),
